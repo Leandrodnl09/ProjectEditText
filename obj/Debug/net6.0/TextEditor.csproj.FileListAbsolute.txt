@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\bin\Debug\net6.0\TextEditor.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\bin\Debug\net6.0\TextEditor.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\bin\Debug\net6.0\TextEditor.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\bin\Debug\net6.0\TextEditor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\bin\Debug\net6.0\TextEditor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\obj\Debug\net6.0\TextEditor.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\obj\Debug\net6.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\obj\Debug\net6.0\TextEditor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\obj\Debug\net6.0\refint\TextEditor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\obj\Debug\net6.0\TextEditor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\obj\Debug\net6.0\TextEditor.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll
